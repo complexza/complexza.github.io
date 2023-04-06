@@ -13,6 +13,7 @@
 :root{
     --first-color: #264aeb;
     --second-color: #0E2431;
+    --button-color: #424242;
 }
 
 /*=== Typography ===*/
@@ -101,7 +102,7 @@ img{
 .section-title{
     position: relative;
     font-size: var(--h2-font-size);
-    color: var(--first-color);
+    color: var(--second-color);
     margin-top: var(--mb-2);
     margin-bottom: var(--mb-4);
     text-align: center;
@@ -115,7 +116,7 @@ img{
     right: 0;
     margin: auto;
     top: 2rem;
-    background-color: var(--first-color);
+    background-color: var(--second-color);
 }
 .section{
     padding-top: 3rem;
@@ -245,7 +246,7 @@ img{
 /*=== Buttons ===*/
 .button{
     display: inline-block;
-    background-color: var(--first-color);
+    background-color: var(--second-color);
     color: white;
     padding: .75rem 2.5rem;
     font-weight: var(--font-semi);
