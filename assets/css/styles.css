@@ -5,6 +5,7 @@
 :root{
     --header-height: 3rem;
     --font-semi: 600;
+    --font-lessemi: 550;
 }
 
 /*=== Colours ===*/
@@ -339,7 +340,7 @@ img{
 .contact_input{
     width: 100%;
     font-size: var(--normal-font-size);
-    font-weight: var(--font-semi);
+    font-weight: var(--font-lessemi);
     padding: 1rem;
     border-radius: .5rem;
     border: 2px solid var(--second-color);

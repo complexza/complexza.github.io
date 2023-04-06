@@ -42,7 +42,7 @@ sr.reveal('.home_social-icon',{interval: 200})
 /*== Scroll About ==*/
 sr.reveal('.about_img',{})
 sr.reveal('.about_subtitle',{delay: 200})
-sr.reveal('.about_text',{delay: 400})
+sr.reveal('.about_text',{delay: 300})
 
 /*== Scroll Skills ==*/
 sr.reveal('.skills_subtitle',{})
@@ -55,3 +55,4 @@ sr.reveal('.work_img',{interval: 200})
 
 /*== Scroll Contact ==*/
 sr.reveal('.contact_input',{interval:200})
+sr.reveal('.conact_formate',{interval:200})
