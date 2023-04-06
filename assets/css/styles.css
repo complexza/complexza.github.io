@@ -59,6 +59,7 @@ body{
     font-size: var(--normal-font-size);
     color: var(--second-color);
 }
+
 h1,h2,p{
     margin: 0;
 }
@@ -207,7 +208,7 @@ img{
 .home_social-icon{
     width: max-content;
     margin-bottom: var(--mb-2);
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     color: var(--second-color);
 }
 .home_social-icon:hover{
@@ -290,13 +291,25 @@ img{
     z-index: var(--z-back)
 }
 .skills_html{
-    width: 95%;
+    width: 75%;
 }
 .skills_css{
     width: 55%;
 }
 .skills_js{
+    width: 65%;
+}
+.skills_python{
+    width: 55%;
+}
+.skills_lua{
     width: 85%;
+}
+.skills_postgresql{
+    width: 65%;
+}
+.skills_nodejs{
+    width: 65%;
 }
 .skills_img{
     border-radius: .5rem;
