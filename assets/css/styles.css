@@ -223,6 +223,11 @@ img{
 .home_title-color{
     color: var(--first-color);
 }
+.home_scrolltitle{
+    font-size: 18px;
+    margin-bottom: var(--mb-5);
+    text-align: center;
+}
 .home_social{
     display: flex;
     flex-direction: column;
