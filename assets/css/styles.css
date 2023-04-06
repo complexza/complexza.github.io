@@ -55,7 +55,7 @@
 html{
     scroll-behavior: smooth;
     background: rgb(172,254,255);
-    background: linear-gradient(0deg, rgba(172,254,255,1) 0%, rgba(255,247,231,1) 100%);
+    background: linear-gradient(0deg, rgba(172,254,255,0.8) 0%, rgba(255,247,231,1) 100%);
 }
 body{
     margin: var(--header-height) 0 0 0;
