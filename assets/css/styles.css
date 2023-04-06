@@ -311,6 +311,15 @@ img{
 .skills_nodejs{
     width: 65%;
 }
+.skills_django{
+    width: 65%;
+}
+.skills_mongodb{
+    width: 70%;
+}
+.skills_microsoft{
+    width: 85%;
+}
 .skills_img{
     border-radius: .5rem;
 }
