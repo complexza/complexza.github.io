@@ -285,6 +285,7 @@ img{
 }
 .skills_data{
     display: flex;
+    background-color: aliceblue;
     justify-content: space-between;
     align-items: center;
     position: relative;
