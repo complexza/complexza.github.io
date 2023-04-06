@@ -55,4 +55,3 @@ sr.reveal('.work_img',{interval: 200})
 
 /*== Scroll Contact ==*/
 sr.reveal('.contact_input',{interval:200})
-sr.reveal('.conact_formate',{interval:200})
