@@ -123,7 +123,8 @@ img{
     left: 0;
     z-index: var(--z-fixed);
     background-color: white;
-    box-shadow: 0 1px 4px rgba(146, 161, 176, .15);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    /* box-shadow: 0px 7px 29px 0px rgba(74, 74, 75, 0.2); */
 }
 
 /*=== NAV ===*/
